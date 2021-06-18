@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Ross Kinney
+## Learning Markdown
+### Passing the time as I don't have anything else to do. 
